@@ -5,6 +5,9 @@
 [submodule "deseats"]
 	path = deseats
 	url = https://github.com/cran/deseats
+[submodule "esemifar"]
+	path = esemifar
+	url = https://github.com/cran/esemifar
 [submodule "smoots"]
 	path = smoots
 	url = https://github.com/cran/smoots
