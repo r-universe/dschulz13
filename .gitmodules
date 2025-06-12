@@ -8,6 +8,9 @@
 [submodule "esemifar"]
 	path = esemifar
 	url = https://github.com/cran/esemifar
+[submodule "fEGarch"]
+	path = fEGarch
+	url = https://github.com/cran/fEGarch
 [submodule "smoots"]
 	path = smoots
 	url = https://github.com/cran/smoots
