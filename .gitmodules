@@ -10,7 +10,7 @@
 	url = https://github.com/cran/esemifar
 [submodule "fEGarch"]
 	path = fEGarch
-	url = https://github.com/cran/fEGarch
+	url = https://github.com/dschulz13/fegarch
 [submodule "smoots"]
 	path = smoots
 	url = https://github.com/cran/smoots
